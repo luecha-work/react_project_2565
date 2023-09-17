@@ -1,0 +1,76 @@
+/* home page */
+
+.SpaceHomePage {
+  width: 100%;
+  height: 100%;
+  padding-top: 1%;
+  padding-bottom: 32%;
+  
+
+}
+
+.imageLogo {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+.SearchStyle {
+ 
+  width: 25%;
+  padding: 1% 2% 0 6%;
+  position:absolute;
+  z-index: 10;
+  
+}
+
+#search{
+  background-color:rgb(41, 43, 42);
+  border-color:rgb(48, 47, 47);
+}
+
+.bg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cardStyle {
+  margin-top: 25px;
+  width: 80%;
+  height: 100%;
+}
+
+.Card {
+  padding: 5px;
+  width: auto;
+  height: 100%;
+}
+
+.iconSize {
+  font-size: 30px;
+}
+.iconSize-s {
+  font-size: 15px;
+}
+
+.myCol{
+  width: 100%;
+  height: 651px;
+}
+
+.hide{
+  color: transparent;
+}
+.imgCal{
+  width: 10rem;
+  height: 8rem;
+  margin: 2rem 1rem 3rem 1rem;
+  
+}
+.imgCal1{
+  width: 16rem;
+  height: 14rem;
+  margin: 0 1rem 3rem 1rem;
+  border-radius: 20px;
+}

@@ -1,0 +1,111 @@
+/* รูปรายการ */
+.img-list{
+    margin-top: 1rem;
+    width: 180px;
+    height: 170px;
+    border-radius: 10px;
+    
+}
+.btnt{
+  
+   margin-top: 4rem;
+   padding: 1rem;
+   border-radius: 20px ;
+
+}
+
+.info-td{
+    font-size: 20px;
+    padding-top: 4rem;
+}
+
+/* หน้าแสดงข้อมูลแคคตัส */
+
+
+.imgpro{
+    width: 350px;
+    height: 340px;
+    margin: 10% 15%;
+    padding: 0;
+    border-radius: 10px;
+    
+}
+
+.nameOf{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 4rem;
+    margin-left: 0rem;
+    padding: 0;
+    
+}
+ .colpro{
+     
+     max-width: 450px;
+ }
+
+ .des{
+     margin: 3rem;
+     margin-right: 5rem;
+     margin-bottom: 4rem;
+     align-content: center;
+     justify-content: center;
+ }
+
+ p{
+   
+    font-size: large;
+    font-weight: 400;
+    text-indent: 50px;
+    text-align: justify;
+    margin-bottom: 3rem;
+
+ }
+
+ .desPic{
+     height: 250px;
+     width: 280px;
+     border-radius: 5px ;
+     margin: 0;
+ }
+ 
+ .desPic2{
+    height: 440px;
+    width: 600px;
+    border-radius: 5px ;
+    margin: 50px 0 50px 0;
+}
+
+
+
+.mamPageSpace {
+    width: 100%;
+    height: 100%;
+    padding-bottom: 15%;
+
+  }
+
+.Reference{
+    color:slateblue;
+    cursor: pointer;
+    margin: 0;
+   
+}
+.Btn{
+    width: 80px;
+    background-color: transparent;
+    border: none;
+    float: left;
+  }
+
+  .backPage{
+    font-size:35px;
+    color: rgb(21, 126, 82);
+    
+    
+
+  }
+
+
+
+ 
+
